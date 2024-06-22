@@ -92,3 +92,8 @@ Contributions are welcome! Please fork this repository and submit pull requests.
 4. Push to the Branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
 
+Don't forget to install node_modules
+
+```sh
+npm i
+```
